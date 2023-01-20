@@ -1,2 +1,6 @@
 Hello world 1.1
+<<<<<<< HEAD
 Quicktest1
+=======
+Text Master
+>>>>>>> master
